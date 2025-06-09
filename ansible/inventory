@@ -1,0 +1,2 @@
+[minecraft]
+3.82.153.100 ansible_user=ubuntu ansible_ssh_private_key_file=/home/brandon/.ssh/minecraft
